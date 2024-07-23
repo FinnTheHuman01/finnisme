@@ -1,0 +1,16 @@
+:root { 
+  --black: #000000;
+  --white: #ffffff;
+ 
+  --font-size-m: 64px;
+  --font-size-s: 48px;
+ 
+  --font-family-hubballi: "Hubballi", Helvetica;
+}
+.hubballi-normal-white-64px {
+  color: var(--white);
+  font-family: var(--font-family-hubballi);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
